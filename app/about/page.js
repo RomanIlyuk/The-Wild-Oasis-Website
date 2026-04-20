@@ -34,7 +34,7 @@ export default function Page() {
         </div>
       </div>
 
-      {/* if we have an image  */}
+      {/* if we have an image (responsive image technique) */}
       <div className="col-span-2">
         <Image
           src={image1}
@@ -44,7 +44,7 @@ export default function Page() {
         />
       </div>
 
-      {/* if we dont have an image */}
+      {/* if we dont have an image (responsive image technique)*/}
       <div className="relative aspect-square col-span-2">
         <Image
           src="/about-2.jpg"
