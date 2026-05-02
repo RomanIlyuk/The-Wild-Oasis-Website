@@ -1,6 +1,8 @@
 import Image from "next/image";
 import Link from "next/link";
 
+import { getCabins } from "@/app/_lib/data-service";
+
 import image1 from "@/public/about-1.jpg";
 import image2 from "@/public/about-2.jpg";
 
