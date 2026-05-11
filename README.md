@@ -8,11 +8,7 @@ A modern full-stack booking application where users can explore luxury cabins, a
 
 ## Vercel Deployment
 
-```txt
 https://the-wild-oasis-website-demo-pink-omega.vercel.app/
-```
-
-Place your deployed Vercel URL here.
 
 ---
 
